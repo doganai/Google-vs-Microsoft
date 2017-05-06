@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Feature Extraction From Microft and Apple stock data
+* Feature Extraction From Microsoft and Apple stock data
 * 1.0	
 
 ### How do I get set up? ###
